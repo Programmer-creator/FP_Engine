@@ -1,0 +1,4 @@
+﻿  EzXet_Engine.cpp
+C:\Users\deniz\source\repos\EzXet_Engine\EzXet_Engine.cpp(158,26): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\deniz\source\repos\EzXet_Engine\EzXet_Engine.cpp(167,17): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  EzXet_Engine.vcxproj -> C:\Users\deniz\source\repos\EzXet_Engine\x64\Debug\EzXet_Engine.exe
